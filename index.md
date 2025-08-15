@@ -35,10 +35,10 @@ Enterprise-level FortiGate firewall log monitoring and compliance tracking.
 
 ---
 
-## 📬 Get In Touch
-📧 **Email:** you@example.com  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/newton-mureti)  
-🐙 **GitHub:** [github.com/newtonnemuto](https://github.com/newtonnemuto)  
+##  Get In Touch
+**Email:** you@example.com  
+**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/newton-mureti)  
+**GitHub:** [github.com/newtonnemuto](https://github.com/newtonnemuto)  
 
 ---
 > *"Security is not a product, but a process." – Bruce Schneier*
